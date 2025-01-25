@@ -1,9 +1,9 @@
 ---
 template: home.html
-title: Material for MkDocs
+title: Aplikasi Absen Apel
 social:
   cards_layout_options:
     title: Documentation that simply works
 ---
 
-Welcome to Material for MkDocs.
+Panduan Penggunaan Aplikasi APPASI.
