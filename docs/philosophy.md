@@ -26,11 +26,11 @@ Untuk mengunduh aplikasi ini dilakukan langkah-langkah berikut:
 Karena Aplikasi ini bekerja menggunakan database maka kita perlu mengatur databasenya terlebih dahulu sebelum dijalankan.
 
 1. Buka Aplikasi Laragon.
-   ![laragon](Images/Laragon.png)
-2. Klik `Database` untuk membuka aplikasi manajemen database heiding SQL
-    ![heiding](Images/heiding.png)
+   
+2. Klik `Database` untuk membuka aplikasi manajemen database heidi SQL
+  
 3. Biarkan bagian Password (Kosong), lalu klik **Open**
-    ![open](Images/open.png)
+    
 4. Saat jendela heidi sql terbuka, Klik menu `File` > `RUn SQL file`, lalu arahkan ke file `apg.sql` yang berada didirektori `c:laragon\www\apg\database` dan klik **Open**. jika ada peringatan, klik **Yess**.
 5. Selama tidak ada pesan `Errror`,berarti database sudah tersedia.
 6. Tekan tombol ++f5++ pada jendela heiding SQl untuk me-refresh database, maka anda akan menekuman database `apg` lengkap dengan struktur tabel berserta contoh datanya.
